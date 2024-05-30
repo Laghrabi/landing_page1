@@ -453,6 +453,9 @@ section {
 
 .experience .box-container {
     display: flex;
+    justify-content:center;
+    align-items:stretch;
+    flex-direction: column;
     flex-wrap: wrap;
     gap: 1.5rem;
 }
