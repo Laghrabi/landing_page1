@@ -269,7 +269,7 @@ section {
 .about .row-1 .image img {
     height: 100%;
     width: 100%;
-    object-fit: cover;
+    /*object-fit: cover;*/
     border: 1rem solid #F6F5F2;
     border-radius: .5rem;
     box-shadow: 0 0.5rem 1rem var(--shadow);
